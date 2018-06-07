@@ -23,15 +23,17 @@ When you complete this kata, you will have completed the following:
 * Test drive the complete FizzBuzz logic
 
 ### Development Environment
-[Installing Node.js with NVM]: https://gist.github.com/d2s/372b5943bce17b964a79
-[Installing yarn package management etc]: https://yarnpkg.com/lang/en/docs/install/#mac-stable
-[Installing detox for acceptance tests]: https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md
+[Installing Node.js with NVM](https://gist.github.com/d2s/372b5943bce17b964a79)
+
+[Installing yarn package management etc](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+
+[Installing detox for acceptance tests](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md)
 
 ### React Project Setup
-[Brief React Installation Instructions]: https://reactjs.org/docs/add-react-to-a-new-app.html
+[Brief React Installation Instructions](https://reactjs.org/docs/add-react-to-a-new-app.html)
 
 ### Unit Testing with Jest
-[Testing React with Jest]: https://facebook.github.io/jest/docs/en/tutorial-react.html
+[Testing React with Jest](https://facebook.github.io/jest/docs/en/tutorial-react.html)
 
 Note that, out of the box, yarn+watchman will watch for changes to your project and re-run
 tests around changed code.  You can also instruct it to re-run all tests by type 'a' in
